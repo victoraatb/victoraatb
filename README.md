@@ -29,12 +29,15 @@
 
 <br />
 
+[![Delphi](https://img.shields.io/badge/-Delphi-red?style=flat&logo=delphi&link=https://github.com/victoraatb)](https://github.com/victoraatb)
+[![Git](https://img.shields.io/badge/-Embarcadero-ED1F35?style=flat&logo=embarcadero&link=https://github.com/victoraatb)](https://github.com/victoraatb)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/victoraatb)](https://github.com/victoraatb) 
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&link=https://github.com/victoraatb)](https://github.com/victoraatb) 
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/victoraatb)](https://github.com/victoraatb)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/victoraatb)](https://github.com/victoraatb)
+[![SQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=microsoftsqlserver&link=https://github.com/victoraatb)](https://github.com/victoraatb)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/victoraatb)](https://github.com/victoraatb)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/victoraatb)](https://github.com/victoraatb) 
-[![Delphi](https://img.shields.io/badge/-Delphi-red?style=flat&logo=delphi&link=https://github.com/victoraatb)](https://github.com/victoraatb)  
-
+  
 <br />
 
 <p align='left'>
