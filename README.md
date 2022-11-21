@@ -26,6 +26,7 @@
 <br />
 
 [![Delphi](https://img.shields.io/badge/-Delphi-red?style=flat&logo=delphi&link=https://github.com/victoraatb)](https://github.com/victoraatb)
+[![C#](https://img.shields.io/badge/-.NET-blue?style=flat&logo=csharp&link=https://github.com/victoraatb)](https://github.com/victoraatb)
 [![Git](https://img.shields.io/badge/-Embarcadero-ED1F35?style=flat&logo=embarcadero&link=https://github.com/victoraatb)](https://github.com/victoraatb)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/victoraatb)](https://github.com/victoraatb) 
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&link=https://github.com/victoraatb)](https://github.com/victoraatb) 
