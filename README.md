@@ -5,8 +5,6 @@
 
 ### Hello! I'm Victor Baptistella a Software Developer from Brazil.
 
-### Portfolio: https://victoraatb.github.io
-
 <a href="https://www.linkedin.com/in/victor-baptistella/">
   <img align="left" alt="Victor Baptistella" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
