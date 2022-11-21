@@ -19,8 +19,6 @@
 <br />
 <br />
 
-<img align="center" alt="GIF" src="https://i.imgur.com/kvUU7.gif" />
-
 <br />
 
 ### 👨‍💻 Languages and Tools
