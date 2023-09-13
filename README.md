@@ -37,10 +37,6 @@
   
 <br />
 
-<p align='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victoraatb&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Victor Baptistella's Github Stats">
-</p>
-
 <p align='right'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=victoraatb.victoraatb" alt="visitor badge"/>
 </p>
